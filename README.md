@@ -54,62 +54,88 @@ Modeling: Object detection (YOLO), classification, OCR, transfer learning, LLM p
 
 ### 🛡 GuardianShield — Fraud Detection Platform
 - End-to-end ML pipeline for detecting anomalous/fraudulent transactions. Includes feature engineering, model training, evaluation and a FastAPI-based inference service.
+- Demo: assets/demo_guardianshield.gif (placeholder — replace with real demo GIF)
+- Key metrics (placeholder): Dataset: internal/sample; Model: XGB/NN; Precision: 0.92; Recall: 0.89; Inference latency: 45 ms
 - Repo: https://github.com/Sumant02/GuardianShield
 
 ### 🚗 Silo Parking System — Real-time Vehicle Detection
-- YOLOv8-based detector integrated with a parking management system to automate spot detection and realtime monitoring.
+- YOLOv8-based detector integrated with parking management to automate spot detection and realtime monitoring.
+- Demo: assets/demo_silo_parking.gif (placeholder)
+- Key metrics (placeholder): mAP@0.5: 0.87; FPS: 22; Inference latency: 40 ms
 - Repo: https://github.com/Sumant02/Silo-Parking-System
 
 ### ✋ Hand Sign Detection — Accessibility-focused CV
-- Real-time hand gesture recognition using deep learning for assistive interfaces.
+- Real-time hand gesture recognition for assistive interfaces.
+- Demo: assets/demo_hand_sign.gif (placeholder)
+- Key metrics (placeholder): Accuracy: 0.94; Latency: 30 ms
 - Repo: https://github.com/Sumant02/Hand-Sign-Detection
 
 ### 🔢 Number Plate Detection (ANPR)
 - OCR + CV pipeline to detect and read license plates from images and video streams.
+- Demo: assets/demo_anpr.gif (placeholder)
+- Key metrics (placeholder): OCR accuracy: 0.91; End-to-end latency: 60 ms
 - Repo: https://github.com/Sumant02/Number-Plate-Detection
 
 ---
 
-## 📈 GitHub Activity & Reliable Badges
-I replaced dynamic third-party cards with reliable badges and profile links to ensure visuals always load. For full live stats and contribution calendar, visit my profile: https://github.com/Sumant02
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-<a href="https://github.com/Sumant02"><img src="https://img.shields.io/github/followers/sumant02?style=for-the-badge" alt="followers"/></a>
-<a href="https://github.com/Sumant02?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-15-181717?style=for-the-badge&logo=github" alt="repositories"/></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumant02&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant02&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumant02&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sumant02&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies"/>
+</p>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg" alt="contrib"/>
+</p>
+
+<p align="center">
+
+<!-- Fallbacks: If the dynamic images above fail to load due to third-party downtime, these reliable badges will display useful profile info. -->
+<img src="https://img.shields.io/github/followers/sumant02?style=for-the-badge" alt="followers"/>
+<img src="https://img.shields.io/badge/Public%20Repos-15-181717?style=for-the-badge&logo=github" alt="repositories"/>
+<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge" alt="top language"/>
+
+</p>
+
+<p align="center">
+View full live profile and contribution calendar: https://github.com/Sumant02
 </p>
 
 ---
 
-## 🏆 Certifications & Community
-
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud" alt="vertex"/>
-<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge&logo=anthropic" alt="claude"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle" alt="oci"/>
-</p>
-
-Contributions: active maintenance of personal projects and contributions to open-source tooling related to CV and ML workflows.
+## 📂 Case Studies (quick summaries)
+- GuardianShield — See CASE_STUDIES/GuardianShield.md for a 1-page case study covering data, model, infra, and lessons learned.
+- Silo Parking System — See CASE_STUDIES/Silo-Parking-System.md for details.
 
 ---
 
-## 📂 How to Evaluate My Work (for recruiters/teams)
-
-- Read the project READMEs (linked above) — they include setup, sample results, and model cards.
-- Check demos or notebooks in each repo for qualitative results and model performance metrics.
-- For production work: ask for API endpoints, latency numbers, and deployment notes (I can provide these on request).
+## 📄 Resume & Contact
+- Resume: RESUME.md (placeholder). If you provide a PDF I will upload it as RESUME.pdf and link from here.
+- Contact: LinkedIn / Email badges at the top of the README.
 
 ---
 
-## 🤝 Let's Collaborate
+## ✅ Next steps I can take (pick any; I can implement)
+1) Replace demo placeholders with real GIFs / short videos you provide.
+2) Update the project metrics with exact numbers from your experiments.
+3) Enable/verify the GitHub Action (I added it) so the visual cards are generated into /assets.
+4) Draft the full case studies for each flagship project from the repositories and notebooks.
+5) Upload a resume PDF and add a “Hire me” CTA with an easy scheduling link.
 
-If you want a strong AI Engineer who can take a project from proof-of-concept to production, send a message on LinkedIn or email me. I’m open to full-time roles, contract work, and collaborations on research or open-source.
-
-<p align="center">
-<a href="https://linkedin.com/in/sumant-bhange-56a402235"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
-<a href="mailto:sumantbhange01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="email"/></a>
-</p>
-
----
+If you want me to proceed and you don’t have assets ready, say “Draft with placeholders” and I’ll proceed to finalize the README, enable the workflow, and draft case studies from available repo READMEs.
 
 <p align="center">
 ⭐ Thanks for visiting — building AI systems that create real-world impact.
