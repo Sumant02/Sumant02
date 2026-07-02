@@ -7,7 +7,7 @@
 <h4 align="center">AI / Machine Learning Engineer</h4>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Engineer" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Engineer"/>
 </p>
 
 <p align="center">
@@ -182,25 +182,39 @@ Cloud Computing            ███████░░░ 70%
 
 <h2 align="center">📈 GitHub Activity</h2>
 
+<!-- Replaced dynamic images that sometimes fail (vercel / heroku services) with more reliable badges and clear fallbacks/links. -->
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumant02&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant02&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+<!-- Followers and profile badges (reliable shields.io) -->
+<a href="https://github.com/Sumant02"><img src="https://img.shields.io/github/followers/sumant02?style=for-the-badge" alt="followers"/></a>
+<a href="https://github.com/Sumant02?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-%2015-181717?style=for-the-badge&logo=github" alt="repositories"/></a>
+<a href="https://github.com/stars/Sumant02"><img src="https://img.shields.io/badge/Stars-On%20GitHub-ffdd00?style=for-the-badge&logo=github" alt="stars"/></a>
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumant02&theme=tokyonight&hide_border=true" alt="streak"/>
+If the visual cards (stats / top languages / streak / trophies / contribution graph) above don't load due to third-party service downtime, view your live GitHub profile and contribution graph here:
+<br/>
+<a href="https://github.com/Sumant02">https://github.com/Sumant02</a>
 </p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumant02&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies"/>
+<!-- Replaced the "trophies" image with a concise, reliable list and badges as an alternative. -->
+<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge" alt="top language"/>
+<img src="https://img.shields.io/badge/Active-Open%20Source-2B3E50?style=for-the-badge" alt="open source"/>
+
+</p>
+
+<p align="center">
+Notable achievements and certifications are listed below — visit my profile for full details.
 </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg" alt="contrib"/>
+<!-- Contribution graph images often rely on generated SVGs in the repo; if that's missing or the generator service is down, provide a direct profile link as fallback. -->
+View full contribution calendar on my GitHub profile: <a href="https://github.com/Sumant02">github.com/Sumant02</a>
 </p>
 
 <h2 align="center">🏆 Certifications & Learning</h2>
