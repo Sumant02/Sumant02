@@ -51,55 +51,108 @@ I'm **Sumant Bhange**, an AI professional passionate about building intelligent 
 
 <h2 align="center">🚀 Featured AI Projects</h2>
 
-<table>
+<p align="center">
+<i>Building intelligent solutions using Artificial Intelligence, Computer Vision and Machine Learning.</i>
+</p>
 
+<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🛡 GuardianShield</h3>
 
 <p align="center">
-AI-powered Real-Time Fraud Detection Platform
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+</p>
+
+<p align="center">
+AI-powered fraud detection platform for secure digital transactions using machine learning.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<a href="YOUR_REPO">
-
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
-
+<a href="YOUR_GUARDIAN_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🚗 Silo Parking</h3>
+<h3 align="center">🚗 Silo Parking System</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+</p>
 
-Vehicle Detection using YOLOv8
-
+<p align="center">
+Real-time vehicle detection and automated parking management using Computer Vision.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
+<a href="YOUR_SILO_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/YOLOv8-cyan?style=for-the-badge">
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">✋ Hand Sign Detection</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Real-time hand gesture recognition using deep learning and computer vision.
+</p>
+
+<p align="center">
+
+<a href="YOUR_HANDSIGN_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔢 Number Plate Detection</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Automatic Number Plate Recognition (ANPR) using OCR and Computer Vision.
+</p>
+
+<p align="center">
+
+<a href="YOUR_ANPR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
@@ -109,15 +162,33 @@ Vehicle Detection using YOLOv8
 
 </table>
 
-## 📊 GitHub Analytics
+## 💻 Current Tech Focus
+
+```text
+Artificial Intelligence    ██████████ 100%
+
+Machine Learning           █████████░ 95%
+
+Computer Vision            ██████████ 100%
+
+Deep Learning              ████████░░ 85%
+
+LLM Engineering            ██████░░░░ 70%
+
+FastAPI                    ███████░░░ 75%
+
+Cloud Computing            ███████░░░ 70%
+```
+
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumant02&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant02&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumant02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant02&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumant02&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Sumant02&theme=tokyonight&hide_border=true"/>
 </p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
