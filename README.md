@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sumant02&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/Sumant02?style=for-the-badge"/>
-</p>
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Sumant02&style=for-the-badge&color=blue"/>
 
