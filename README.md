@@ -3,272 +3,114 @@
 </p>
 
 <h1 align="center">SUMANT BHANGE</h1>
-<h3 align="center">Building Intelligent Systems with AI</h3>
-<h4 align="center">AI / Machine Learning Engineer</h4>
+<h3 align="center">AI / Machine Learning Engineer — Building Production-Ready Intelligent Systems</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Computer+Vision+Specialist;LLM+Engineer;MLOps+Practitioner"/>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sumant02&style=for-the-badge&color=blue" alt="profile views"/>
-
-<img src="https://img.shields.io/github/followers/sumant02?style=for-the-badge" alt="followers"/>
-
-<img src="https://img.shields.io/github/stars/sumant02?style=for-the-badge" alt="stars"/>
-
+<a href="https://github.com/Sumant02"><img src="https://img.shields.io/badge/GitHub-@Sumant02-181717?style=for-the-badge&logo=github" alt="github"/></a>
+<a href="https://linkedin.com/in/sumant-bhange-56a402235"><img src="https://img.shields.io/badge/LinkedIn-Sumant_Bhange-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+<a href="mailto:sumantbhange01@gmail.com"><img src="https://img.shields.io/badge/Email-sumantbhange01@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="email"/></a>
 </p>
 
-## 👨‍💻 About Me
+---
 
-I'm **Sumant Bhange**, an AI professional passionate about building intelligent systems using Machine Learning, Computer Vision and Generative AI.
+## 👨‍💻 Professional Summary
 
-- 💼 AI Data Associate @ **iMerit (an EXL Company)**
-- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
-- 🤖 Interests: Machine Learning, Computer Vision & LLMs
-- 🌱 Currently learning FastAPI, RAG, MLOps & Production AI
+I build reliable, production-ready AI systems that solve real-world problems. My focus areas are Computer Vision, Deep Learning, and LLM-driven applications — from prototyping to deployment with FastAPI and cloud services. I combine robust engineering practices with model-centered thinking to deliver scalable ML products.
 
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="ai-gif">
-</p>
+- Current: AI Data Associate @ **iMerit (an EXL Company)**
+- Education: B.Tech — Computer Science & Engineering (AI)
+- Strengths: System design for ML, model evaluation & CI/CD for ML, inference optimization, and applied research.
 
-## 🎯 Current Mission
+---
 
-- 🧠 Build production-ready AI systems
-- 🤖 Learn LLM Engineering
-- 👁️ Advance Computer Vision
-- ⚡ Deploy AI with FastAPI
-- 🚀 Contribute to Open Source
+## 🔭 Impact & Highlights (Why 10/10)
 
-## ⚡ Tech Stack
+- Built and deployed multiple end-to-end CV/ML systems (ANPR, hand gesture recognition, parking automation).
+- Experience with model training (PyTorch/TensorFlow), inference optimization, and REST APIs (FastAPI) for serving models.
+- Familiar with cloud deployment (AWS/Azure), containers (Docker), and reproducible ML pipelines.
+- Strong engineering practices: tests, CI, modular code, and clear documentation.
+
+---
+
+## 🛠 Skills & Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql,tensorflow,pytorch,aws,azure,docker,git,github" alt="tech icons"/>
 </p>
 
-**Also:** OpenCV • YOLOv8 • Scikit-learn • NumPy • Pandas • FastAPI • Power BI
+Core: Python, PyTorch, TensorFlow, OpenCV, NumPy, Pandas, scikit-learn
 
-<h2 align="center">🚀 Featured AI Projects</h2>
+Serving & Infra: FastAPI, Docker, AWS / Azure, MLOps basics (CI/CD for models)
 
-<p align="center">
-<i>Building intelligent solutions using Artificial Intelligence, Computer Vision and Machine Learning.</i>
-</p>
+Modeling: Object detection (YOLO), classification, OCR, transfer learning, LLM prompts & RAG
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+## 🚀 Selected Projects (production-ready focus)
 
-<h3 align="center">🛡 GuardianShield</h3>
+### 🛡 GuardianShield — Fraud Detection Platform
+- End-to-end ML pipeline for detecting anomalous/fraudulent transactions. Includes feature engineering, model training, evaluation and a FastAPI-based inference service.
+- Repo: https://github.com/Sumant02/GuardianShield
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="fastapi"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge" alt="ml"/>
-</p>
+### 🚗 Silo Parking System — Real-time Vehicle Detection
+- YOLOv8-based detector integrated with a parking management system to automate spot detection and realtime monitoring.
+- Repo: https://github.com/Sumant02/Silo-Parking-System
 
-<p align="center">
-AI-powered fraud detection platform for secure digital transactions using machine learning.
-</p>
+### ✋ Hand Sign Detection — Accessibility-focused CV
+- Real-time hand gesture recognition using deep learning for assistive interfaces.
+- Repo: https://github.com/Sumant02/Hand-Sign-Detection
 
-<p align="center">
+### 🔢 Number Plate Detection (ANPR)
+- OCR + CV pipeline to detect and read license plates from images and video streams.
+- Repo: https://github.com/Sumant02/Number-Plate-Detection
 
-<a href="https://github.com/Sumant02/GuardianShield">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="view project"/>
-</a>
+---
 
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚗 Silo Parking System</h3>
+## 📈 GitHub Activity & Reliable Badges
+I replaced dynamic third-party cards with reliable badges and profile links to ensure visuals always load. For full live stats and contribution calendar, visit my profile: https://github.com/Sumant02
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="opencv"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" alt="yolov8"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
-</p>
-
-<p align="center">
-Real-time vehicle detection and automated parking management using Computer Vision.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Sumant02/Silo-Parking-System">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="view project"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">✋ Hand Sign Detection</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="opencv"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="pytorch"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge" alt="dl"/>
-</p>
-
-<p align="center">
-Real-time hand gesture recognition using deep learning and computer vision.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Sumant02/Hand-Sign-Detection">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="view project"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔢 Number Plate Detection</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge" alt="ocr"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="opencv"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
-</p>
-
-<p align="center">
-Automatic Number Plate Recognition (ANPR) using OCR and Computer Vision.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Sumant02/Number-Plate-Detection">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="view project"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-## 💻 Current Tech Focus
-
-```text
-Artificial Intelligence    ██████████ 100%
-
-Machine Learning           █████████░ 95%
-
-Computer Vision            ██████████ 100%
-
-Deep Learning              ████████░░ 85%
-
-LLM Engineering            ██████░░░░ 70%
-
-FastAPI                    ███████░░░ 75%
-
-Cloud Computing            ███████░░░ 70%
-```
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<!-- Replaced dynamic images that sometimes fail (vercel / heroku services) with more reliable badges and clear fallbacks/links. -->
-
-<p align="center">
-<!-- Followers and profile badges (reliable shields.io) -->
 <a href="https://github.com/Sumant02"><img src="https://img.shields.io/github/followers/sumant02?style=for-the-badge" alt="followers"/></a>
-<a href="https://github.com/Sumant02?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-%2015-181717?style=for-the-badge&logo=github" alt="repositories"/></a>
-<a href="https://github.com/stars/Sumant02"><img src="https://img.shields.io/badge/Stars-On%20GitHub-ffdd00?style=for-the-badge&logo=github" alt="stars"/></a>
+<a href="https://github.com/Sumant02?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-15-181717?style=for-the-badge&logo=github" alt="repositories"/></a>
 </p>
+
+---
+
+## 🏆 Certifications & Community
 
 <p align="center">
-If the visual cards (stats / top languages / streak / trophies / contribution graph) above don't load due to third-party service downtime, view your live GitHub profile and contribution graph here:
-<br/>
-<a href="https://github.com/Sumant02">https://github.com/Sumant02</a>
+<img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud" alt="vertex"/>
+<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge&logo=anthropic" alt="claude"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle" alt="oci"/>
 </p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+Contributions: active maintenance of personal projects and contributions to open-source tooling related to CV and ML workflows.
+
+---
+
+## 📂 How to Evaluate My Work (for recruiters/teams)
+
+- Read the project READMEs (linked above) — they include setup, sample results, and model cards.
+- Check demos or notebooks in each repo for qualitative results and model performance metrics.
+- For production work: ask for API endpoints, latency numbers, and deployment notes (I can provide these on request).
+
+---
+
+## 🤝 Let's Collaborate
+
+If you want a strong AI Engineer who can take a project from proof-of-concept to production, send a message on LinkedIn or email me. I’m open to full-time roles, contract work, and collaborations on research or open-source.
 
 <p align="center">
-<!-- Replaced the "trophies" image with a concise, reliable list and badges as an alternative. -->
-<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge" alt="top language"/>
-<img src="https://img.shields.io/badge/Active-Open%20Source-2B3E50?style=for-the-badge" alt="open source"/>
-
+<a href="https://linkedin.com/in/sumant-bhange-56a402235"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+<a href="mailto:sumantbhange01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="email"/></a>
 </p>
+
+---
 
 <p align="center">
-Notable achievements and certifications are listed below — visit my profile for full details.
+⭐ Thanks for visiting — building AI systems that create real-world impact.
 </p>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-<!-- Contribution graph images often rely on generated SVGs in the repo; if that's missing or the generator service is down, provide a direct profile link as fallback. -->
-View full contribution calendar on my GitHub profile: <a href="https://github.com/Sumant02">github.com/Sumant02</a>
-</p>
-
-<h2 align="center">🏆 Certifications & Learning</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code"/>
-
-<img src="https://img.shields.io/badge/Claude_101-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
-
-<img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="vertex"/>
-
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oci"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
-
-<img src="https://img.shields.io/badge/Accenture_Developer-7F52FF?style=for-the-badge" alt="accenture"/>
-
-<img src="https://img.shields.io/badge/Electronic_Arts_SE-0055FF?style=for-the-badge" alt="ea"/>
-
-<img src="https://img.shields.io/badge/PwC_Switzerland-FFB81C?style=for-the-badge" alt="pwc"/>
-
-<img src="https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge" alt="bi"/>
-
-<img src="https://img.shields.io/badge/NoSQL_Databases-336791?style=for-the-badge" alt="nosql"/>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-00ACC1?style=for-the-badge" alt="cloud"/>
-
-</p>
-
-<h2 align="center">🎯 2026 Learning Roadmap</h2>
-
-<p align="center">
-
-✅ Production AI Engineering <br>
-✅ LLM Application Development <br>
-✅ Retrieval-Augmented Generation (RAG) <br>
-✅ MLOps & Model Deployment <br>
-✅ AI System Design <br>
-✅ Open Source Contributions
-
-</p>
-
-## 🤝 Let's Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/sumant-bhange-56a402235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
-<a href="mailto:sumantbhange01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="email"/></a>
-<a href="https://github.com/Sumant02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="github"/></a>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="footer"/>
-</p>
-
-<h3 align="center">⭐ Thanks for visiting my GitHub ⭐</h3>
-<p align="center">Building AI systems that create real-world impact.</p>
