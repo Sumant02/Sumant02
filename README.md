@@ -15,6 +15,16 @@
 <img src="https://img.shields.io/github/followers/Sumant02?style=for-the-badge"/>
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sumant02&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Sumant02?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Sumant02?style=for-the-badge"/>
+
+</p>
+
 ## 👨‍💻 About Me
 
 I'm **Sumant Bhange**, an AI professional passionate about building intelligent systems using Machine Learning, Computer Vision and Generative AI.
@@ -23,6 +33,10 @@ I'm **Sumant Bhange**, an AI professional passionate about building intelligent 
 - 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
 - 🤖 Interested in Machine Learning, Computer Vision & LLMs
 - 🌱 Currently learning FastAPI, RAG, MLOps & Production AI
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B2c3F6d2R2N3l2bXZ1a3VqOHd4cTZsYWhwMzJ3dWw1aXk2bW9kbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+</p>
 
 ## 🎯 Current Mission
 
@@ -40,14 +54,65 @@ I'm **Sumant Bhange**, an AI professional passionate about building intelligent 
 
 **Also:** OpenCV • YOLOv8 • Scikit-learn • NumPy • Pandas • FastAPI • Power BI
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured AI Projects</h2>
 
-| Project | Description |
-|---------|-------------|
-| 🛡 GuardianShield | AI-powered real-time fraud detection platform |
-| 🚗 Silo Parking System | Vehicle detection using YOLOv8 |
-| ✋ Hand Sign Detection | Real-time gesture recognition |
-| 🔢 Number Plate Detection | OCR-based ANPR system |
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛡 GuardianShield</h3>
+
+<p align="center">
+AI-powered Real-Time Fraud Detection Platform
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO">
+
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🚗 Silo Parking</h3>
+
+<p align="center">
+
+Vehicle Detection using YOLOv8
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/YOLOv8-cyan?style=for-the-badge">
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ## 📊 GitHub Analytics
 
@@ -58,6 +123,18 @@ I'm **Sumant Bhange**, an AI professional passionate about building intelligent 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumant02&theme=tokyonight"/>
+</p>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sumant02&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ## 🏆 Certifications
