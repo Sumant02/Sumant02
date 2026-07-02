@@ -234,6 +234,143 @@ class SumantBhange:
 
 ---
 
+<h1 align="center">🧠 AI Operating System</h1>
+
+<table>
+<tr>
+
+<td width="33%">
+
+## 🚀 Status
+
+```text
+System Status
+
+█████████████ 100%
+
+AI Mode        ONLINE
+
+Learning       ACTIVE
+
+Coffee         LOADING ☕
+
+Open Source    ENABLED
+```
+
+</td>
+
+<td width="33%">
+
+## 🧩 Currently Building
+
+- 🤖 AI Systems
+
+- 🧠 Machine Learning Models
+
+- 👁 Computer Vision Projects
+
+- ⚡ FastAPI Applications
+
+- 🚀 Production AI Pipelines
+
+</td>
+
+<td width="33%">
+
+## 📅 2026 Roadmap
+
+✅ LLM Engineering
+
+✅ RAG Applications
+
+✅ AI Deployment
+
+✅ MLOps
+
+✅ Research Publication
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📚 AI Journey
+
+```text
+2021 ─────────────── Started Programming
+
+2022 ─────────────── Python & Machine Learning
+
+2023 ─────────────── Computer Vision
+
+2024 ─────────────── Deep Learning
+
+2025 ─────────────── AI Projects + Graduation
+
+2026 ─────────────── Production AI & Generative AI 🚀
+```
+
+---
+
+# ⚡ AI Matrix
+
+| Domain | Experience |
+|---------|-----------|
+| 🤖 Artificial Intelligence | ██████████ |
+| 🧠 Machine Learning | █████████░ |
+| 👁 Computer Vision | ██████████ |
+| 🐍 Python | ██████████ |
+| ⚡ FastAPI | ███████░░░ |
+| ☁ Cloud | ███████░░░ |
+| 🚀 Generative AI | ███████░░░ |
+| 📊 Power BI | ████████░░ |
+
+---
+
+# 💭 Philosophy
+
+> "Great AI systems are built on quality data, thoughtful engineering, and continuous learning."
+
+---
+
+# ⚡ Fun Facts
+
+- 🧠 I enjoy solving real-world problems using AI.
+
+- ☕ Coffee makes debugging easier.
+
+- 🚀 I believe consistency beats talent.
+
+- 📚 Learning something new every day.
+
+---
+
+# 🤖 Quote of the Day
+
+> *"The future belongs to those who build intelligent systems."*
+
+---
+
+# 📊 Skills Overview
+
+Python              ██████████
+
+Machine Learning    █████████░
+
+Computer Vision     ██████████
+
+SQL                 █████████░
+
+Deep Learning       ████████░░
+
+Generative AI       ███████░░░
+
+Cloud               ███████░░░
+
+Open Source         ███████░░░
+
 <h1 align="center">🚀 Featured AI Projects</h1>
 
 <table>
@@ -411,7 +548,19 @@ Automatic Number Plate Recognition using OCR and Computer Vision.
 
 </p>
 
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub ⭐
+
+Building AI systems that create real-world impact.
+
+</h3>
 
 
 
