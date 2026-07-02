@@ -203,13 +203,45 @@ Cloud Computing            ███████░░░ 70%
 <img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg"/>
 </p>
 
-## 🏆 Certifications
+<h2 align="center">🏆 Certifications & Learning</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Claude_Code_101-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude_101-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Accenture_Developer-7F52FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Electronic_Arts_SE-0055FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PwC_Switzerland-FFB81C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NoSQL_Databases-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-00ACC1?style=for-the-badge"/>
+
+</p>
+
+<h2 align="center">🎯 2026 Learning Roadmap</h2>
+
+<p align="center">
+
+✅ Production AI Engineering <br>
+✅ LLM Application Development <br>
+✅ Retrieval-Augmented Generation (RAG) <br>
+✅ MLOps & Model Deployment <br>
+✅ AI System Design <br>
+✅ Open Source Contributions
+
 </p>
 
 ## 🤝 Let's Connect
