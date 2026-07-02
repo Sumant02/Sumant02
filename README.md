@@ -1,3 +1,258 @@
+<p align="center">
+
+<img src="assets/banner.png" width="100%">
+
+</p>
+
+<h1 align="center">
+
+SUMANT BHANGE
+
+Building Intelligent Systems with AI
+
+</h1>
+
+<h3 align="center">
+
+AI / Machine Learning Engineer
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems;Always+Learning+🚀" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sumant02&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Sumant02?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Sumant02?style=for-the-badge"/>
+
+</p>
+
+## 👨‍💻 About Me
+
+I'm **Sumant Bhange**, an AI professional passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI.
+
+Currently working as an **AI Data Associate at iMerit (an EXL Company)**, I contribute to AI workflows that improve data quality and support the development of machine learning models.
+
+I enjoy transforming ideas into practical AI applications and continuously expanding my expertise in modern AI technologies.
+
+---
+
+# 🎯 Current Mission
+
+🧠 Build production-ready AI systems
+
+🤖 Learn LLMs & Generative AI
+
+👁️ Advance Computer Vision projects
+
+⚡ Master FastAPI & ML deployment
+
+🚀 Contribute to Open Source
+
+> *"Artificial Intelligence is not about replacing humans; it's about amplifying human potential."*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sumant Bhange</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
