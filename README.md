@@ -44,6 +44,137 @@ I enjoy transforming ideas into practical AI applications and continuously expan
 
 ---
 
+<div align="center">
+
+# ⚡ AI Profile
+
+| | |
+|:---|:---|
+| 👨 **Name** | Sumant Bhange |
+| 💼 **Current Role** | AI Data Associate @ iMerit (EXL) |
+| 🎓 **Education** | B.Tech – Artificial Intelligence |
+| 📍 **Location** | Pune, India |
+| 🚀 **Dream Role** | AI / ML Engineer |
+| 🔥 **Focus** | Computer Vision • LLMs • AI Systems |
+| 🌱 **Learning** | FastAPI • RAG • MLOps |
+
+</div>
+
+---
+
+# 🧠 AI Engineering Workflow
+
+```text
+              DATA
+                │
+                ▼
+        Data Collection
+                │
+                ▼
+       Data Cleaning
+                │
+                ▼
+      Feature Engineering
+                │
+                ▼
+     Machine Learning Model
+                │
+                ▼
+      Model Evaluation
+                │
+                ▼
+      FastAPI Deployment
+                │
+                ▼
+       Real World Solution
+
+
+This is simple but effective.
+
+---
+
+# ⭐ 3. Repository Showcase
+
+Replace simple project lists with this layout.
+
+```markdown
+# 🚀 Project Portfolio
+
+### 🛡 GuardianShield
+AI-powered Real-Time Fraud Detection System
+
+⭐ Machine Learning
+⭐ FastAPI
+⭐ Python
+⭐ Fraud Analytics
+
+---
+
+### 🚗 Silo Parking System
+
+Computer Vision using YOLOv8
+
+⭐ OpenCV
+⭐ YOLO
+⭐ Python
+
+---
+
+### ✋ Hand Sign Detection
+
+Real-time Gesture Recognition
+
+⭐ PyTorch
+⭐ Deep Learning
+⭐ OpenCV
+
+---
+
+### 🔢 Number Plate Detection
+
+Automatic Number Plate Recognition
+
+⭐ OCR
+⭐ Computer Vision
+⭐ Python
+
+# 🎓 Learning Journey
+
+| Certification | Status |
+|---------------|--------|
+| Claude Code 101 | ✅ |
+| Claude 101 | ✅ |
+| Google Vertex AI | ✅ |
+| PwC Power BI | ✅ |
+| Accenture Developer | ✅ |
+| Oracle Cloud | ✅ |
+| Electronic Arts | ✅ |
+
+# 🎯 2026 Goals
+
+- 🚀 Build 15 AI Projects
+- 🤖 Publish Open Source AI Libraries
+- 🧠 Master LLM Engineering
+- ☁ Learn Production AI
+- 📄 Publish Research
+- 💼 Become AI Engineer
+
+> "The best AI models begin with high-quality data, but great AI products are built through curiosity, engineering, and persistence."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting ⭐
+
+**Let's connect and build intelligent systems together.**
+
+📧 sumantbhange01@gmail.com
+
+💼 LinkedIn • GitHub • Portfolio
+
+</div>
+
 # 🎯 Current Mission
 
 🧠 Build production-ready AI systems
