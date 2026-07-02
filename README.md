@@ -57,9 +57,359 @@ I enjoy transforming ideas into practical AI applications and continuously expan
 🚀 Contribute to Open Source
 
 > *"Artificial Intelligence is not about replacing humans; it's about amplifying human potential."*
+---
 
+# 🚀 AI Dashboard
 
+<table>
+<tr>
+<td width="50%">
 
+### 🎯 Current Role
+- 🏢 AI Data Associate @ **iMerit (an EXL Company)**
+- 📍 Pune, India
+
+### 🎓 Education
+- B.Tech – Computer Science & Engineering (Artificial Intelligence)
+
+### 🌱 Currently Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- MLOps
+- Production AI
+
+</td>
+
+<td width="50%">
+
+### 🎯 2026 Goals
+
+✅ Build Production AI Projects
+
+✅ Contribute to Open Source
+
+✅ Master LLM Engineering
+
+✅ Publish AI Research
+
+✅ Become AI Engineer
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+**Also Experienced With**
+
+- OpenCV
+- YOLOv8
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github"/>
+
+</p>
+
+---
+
+## 💻 Development
+
+- FastAPI
+- REST APIs
+- SQL
+- Power BI
+- Tableau
+
+---
+
+# 🚀 Featured AI Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛡 GuardianShield | AI-powered Real-Time Fraud Detection System | Python • ML • FastAPI |
+| 🚗 Silo Parking System | Computer Vision based Vehicle Detection | YOLOv8 • OpenCV |
+| ✋ Hand Sign Detection | Deep Learning Gesture Recognition | PyTorch • OpenCV |
+| 🔢 Number Plate Detection | OCR Pipeline using Computer Vision | Python • OCR |
+| 📊 Power BI Dashboard | Interactive Business Intelligence Dashboard | Power BI |
+
+---
+
+# 💡 What I'm Working On
+
+```python
+class SumantBhange:
+
+    role = "AI Data Associate"
+
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Generative AI",
+        "LLMs",
+        "Python"
+    ]
+
+    currently_learning = [
+        "FastAPI",
+        "RAG",
+        "MLOps",
+        "Production AI"
+    ]
+
+    mission = "Building AI systems that solve real-world problems."
+```
+
+---
+
+# 🏆 Certifications
+
+🏅 Claude Code 101
+
+🏅 Claude 101
+
+🏅 Google Vertex AI Prompt Design
+
+🏅 Electronic Arts Software Engineering
+
+🏅 PwC Switzerland Power BI
+
+🏅 Accenture Developer Program
+
+🏅 Oracle Cloud Infrastructure
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumant02&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant02&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumant02&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumant02&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<h1 align="center">🚀 Featured AI Projects</h1>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛡 GuardianShield</h3>
+
+<p align="center">
+AI-powered fraud detection platform using Machine Learning and intelligent transaction analysis.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🚗 Silo Parking System</h3>
+
+<p align="center">
+
+Computer Vision solution for automatic vehicle detection using YOLOv8.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">✋ Hand Sign Detection</h3>
+
+<p align="center">
+
+Real-time gesture recognition using Deep Learning.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔢 Number Plate Detection</h3>
+
+<p align="center">
+
+Automatic Number Plate Recognition using OCR and Computer Vision.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OCR-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumant02&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 🎓 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Accenture-7F52FF?style=for-the-badge">
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sumant-bhange-56a402235">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
+</a>
+
+<a href="mailto:sumantbhange01@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+
+</a>
+
+</p>
 
 
 
