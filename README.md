@@ -1,335 +1,87 @@
 <p align="center">
-
-<img src="assets/banner.png" width="100%">
-
+  <img src="assets/banner.png" width="100%">
 </p>
 
-<h1 align="center">
-
-SUMANT BHANGE
-
-Building Intelligent Systems with AI
-
-</h1>
-
-<h3 align="center">
-
-AI / Machine Learning Engineer
-
-</h3>
+<h1 align="center">SUMANT BHANGE</h1>
+<h3 align="center">Building Intelligent Systems with AI</h3>
+<h4 align="center">AI / Machine Learning Engineer</h4>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems;Always+Learning+🚀" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Computer+Vision+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems;Always+Learning"/>
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Sumant02&style=for-the-badge&color=blue"/>
-
 <img src="https://img.shields.io/github/followers/Sumant02?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Sumant02?style=for-the-badge"/>
-
 </p>
 
 ## 👨‍💻 About Me
 
-I'm **Sumant Bhange**, an AI professional passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI.
+I'm **Sumant Bhange**, an AI professional passionate about building intelligent systems using Machine Learning, Computer Vision and Generative AI.
 
-Currently working as an **AI Data Associate at iMerit (an EXL Company)**, I contribute to AI workflows that improve data quality and support the development of machine learning models.
+- 💼 AI Data Associate @ **iMerit (an EXL Company)**
+- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
+- 🤖 Interested in Machine Learning, Computer Vision & LLMs
+- 🌱 Currently learning FastAPI, RAG, MLOps & Production AI
 
-I enjoy transforming ideas into practical AI applications and continuously expanding my expertise in modern AI technologies.
+## 🎯 Current Mission
 
----
+- 🧠 Build production-ready AI systems
+- 🤖 Learn LLM Engineering
+- 👁️ Advance Computer Vision
+- ⚡ Deploy AI with FastAPI
+- 🚀 Contribute to Open Source
 
-<div align="center">
+## ⚡ Tech Stack
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql,tensorflow,pytorch,aws,azure,docker,git,github"/>
+</p>
 
-# 🏆 Certifications
+**Also:** OpenCV • YOLOv8 • Scikit-learn • NumPy • Pandas • FastAPI • Power BI
 
-🏅 Claude Code 101
+## 🚀 Featured Projects
 
-🏅 Claude 101
+| Project | Description |
+|---------|-------------|
+| 🛡 GuardianShield | AI-powered real-time fraud detection platform |
+| 🚗 Silo Parking System | Vehicle detection using YOLOv8 |
+| ✋ Hand Sign Detection | Real-time gesture recognition |
+| 🔢 Number Plate Detection | OCR-based ANPR system |
 
-🏅 Google Vertex AI Prompt Design
-
-🏅 Electronic Arts Software Engineering
-
-🏅 PwC Switzerland Power BI
-
-🏅 Accenture Developer Program
-
-🏅 Oracle Cloud Infrastructure
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumant02&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant02&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumant02&theme=tokyonight"/>
+</p>
 
+## 🏆 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/Claude_Code_101-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/sumant-bhange-56a402235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:sumantbhange01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumant02&theme=tokyo-night"/>
-
-</p>
-
----
-
-<h1 align="center">🧠 AI Operating System</h1>
-
-<table>
-<tr>
-
-<td width="33%">
-
-## 🚀 Status
-
-```text
-System Status
-
-█████████████ 100%
-
-AI Mode        ONLINE
-
-Learning       ACTIVE
-
-Coffee         LOADING ☕
-
-Open Source    ENABLED
-```
-
-</td>
-
-<td width="33%">
-
-## 🧩 Currently Building
-
-- 🤖 AI Systems
-
-- 🧠 Machine Learning Models
-
-- 👁 Computer Vision Projects
-
-- ⚡ FastAPI Applications
-
-- 🚀 Production AI Pipelines
-
-</td>
-
-<td width="33%">
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h1 align="center">🚀 Featured AI Projects</h1>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛡 GuardianShield</h3>
-
-<p align="center">
-AI-powered fraud detection platform using Machine Learning and intelligent transaction analysis.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🚗 Silo Parking System</h3>
-
-<p align="center">
-
-Computer Vision solution for automatic vehicle detection using YOLOv8.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">✋ Hand Sign Detection</h3>
-
-<p align="center">
-
-Real-time gesture recognition using Deep Learning.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🔢 Number Plate Detection</h3>
-
-<p align="center">
-
-Automatic Number Plate Recognition using OCR and Computer Vision.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OCR-green?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumant02&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sumant02/Sumant02/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 🎓 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code_101-000000?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Accenture-7F52FF?style=for-the-badge">
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sumant-bhange-56a402235">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<a href="mailto:sumantbhange01@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-
-</a>
-
-</p>
-
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
 </p>
 
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub ⭐
-
-Building AI systems that create real-world impact.
-
-</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub ⭐</h3>
+<p align="center">Building AI systems that create real-world impact.</p>
 
 
 
